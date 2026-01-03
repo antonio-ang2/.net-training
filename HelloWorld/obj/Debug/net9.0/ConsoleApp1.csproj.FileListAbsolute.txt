@@ -1,0 +1,15 @@
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/inteli/Documentos/Github/.net-training/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll

@@ -1,0 +1,15 @@
+/home/inteli/Documentos/Github/.net-training/StudentMedia/bin/Debug/net9.0/StudentMedia
+/home/inteli/Documentos/Github/.net-training/StudentMedia/bin/Debug/net9.0/StudentMedia.deps.json
+/home/inteli/Documentos/Github/.net-training/StudentMedia/bin/Debug/net9.0/StudentMedia.runtimeconfig.json
+/home/inteli/Documentos/Github/.net-training/StudentMedia/bin/Debug/net9.0/StudentMedia.dll
+/home/inteli/Documentos/Github/.net-training/StudentMedia/bin/Debug/net9.0/StudentMedia.pdb
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.AssemblyInfoInputs.cache
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.AssemblyInfo.cs
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.csproj.CoreCompileInputs.cache
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.sourcelink.json
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.dll
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/refint/StudentMedia.dll
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.pdb
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/StudentMedia.genruntimeconfig.cache
+/home/inteli/Documentos/Github/.net-training/StudentMedia/obj/Debug/net9.0/ref/StudentMedia.dll
