@@ -1,0 +1,15 @@
+/home/inteli/Documentos/Github/.net-training/foreach/bin/Debug/net9.0/for
+/home/inteli/Documentos/Github/.net-training/foreach/bin/Debug/net9.0/for.deps.json
+/home/inteli/Documentos/Github/.net-training/foreach/bin/Debug/net9.0/for.runtimeconfig.json
+/home/inteli/Documentos/Github/.net-training/foreach/bin/Debug/net9.0/for.dll
+/home/inteli/Documentos/Github/.net-training/foreach/bin/Debug/net9.0/for.pdb
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.GeneratedMSBuildEditorConfig.editorconfig
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.AssemblyInfoInputs.cache
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.AssemblyInfo.cs
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.csproj.CoreCompileInputs.cache
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.sourcelink.json
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.dll
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/refint/for.dll
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.pdb
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/for.genruntimeconfig.cache
+/home/inteli/Documentos/Github/.net-training/foreach/obj/Debug/net9.0/ref/for.dll
