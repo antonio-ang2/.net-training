@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b108414011ebac5d987073826f488097ad14c507")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a169c82e45179e886d20cddeaf4d6d04c277166")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
